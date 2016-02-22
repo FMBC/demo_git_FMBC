@@ -2,4 +2,4 @@
 Premier test sur GIT qui se passe plutôt bien.
 Maintenant je le modifie depuis GitHub pour le pull vers mon ordinateur.
 
-Je le modifie aussi depuis ma machine pour qu'il aille sur GitHub.
+Je le modifie aussi depuis ma machine pour qu'il aille sur GitHub. C'est vraiment super cette technique !
